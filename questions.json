@@ -1,0 +1,254 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "What type of word pair is “dock” and “Doc” as used in the story?",
+    "options": [
+      "Homonyms",
+      "Homophones",
+      "Synonyms",
+      "Antonyms"
+    ],
+    "correct": 1,
+    "explanation": "In the story, 'dock' refers to a platform near water, while 'Doc' is a nickname for a doctor. These words sound the same but have different meanings and spellings, making them homophones."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "The use of the word “case” in the sentences “Detective Rupert Thorn was assigned a new case” and “On his desk, a wooden case lay open” represents which type of word relationship?",
+    "options": [
+      "Homonyms",
+      "Homophones",
+      "Synonyms",
+      "Antonyms"
+    ],
+    "correct": 0,
+    "explanation": "In these examples, 'case' is used with two different meanings: one as a situation requiring investigation and the other as a container. Since the word is spelled and pronounced the same but has different meanings, it is classified as a homonym."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Which type of frequently confused words is illustrated in the pair 'route-root'?",
+    "options": [
+      "Homonyms",
+      "Synonyms",
+      "Homophones",
+      "Antonyms"
+    ],
+    "correct": 2,
+    "explanation": "'Route' (a pathway) and 'root' (a plant's underground part) are pronounced the same but have different spellings and meanings, classifying them as homophones."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "In which sentence does the word 'case' refer to a container or box?",
+    "options": [
+      "Detective Thorn worked on a serious case.",
+      "The lead case lay open on the desk.",
+      "Thorn examined the details of the case carefully.",
+      "It was a difficult case to solve."
+    ],
+    "correct": 1,
+    "explanation": "Here, 'case' refers to a container, while in the other sentences, 'case' refers to a situation requiring investigation. This shows how 'case' is a homonym because it shares the same spelling but has different meanings based on the context."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Where is 'bare' used correctly?",
+    "options": [
+      "The tree was bare of leaves.",
+      "He could not bare the pain any longer.",
+      "She will bare her thoughts on the matter.",
+      "The company had to bare the cost."
+    ],
+    "correct": 0,
+    "explanation": "'Bare' means uncovered or without, as used here. The verb 'bear' should be used in the other options."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Identify the correct usage of 'waist':",
+    "options": [
+      "She tied the belt around her waist.",
+      "It was a waist of time.",
+      "He chose to waist the opportunity.",
+      "The food was a complete waist."
+    ],
+    "correct": 0,
+    "explanation": "'Waist' is part of the body, while 'waste' is something discarded or used up inefficiently."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "In which sentence is 'stationary' used incorrectly?",
+    "options": [
+      "The car remained stationary at the traffic light.",
+      "She wrote the letter on her favourite stationary.",
+      "The soldier stood stationary during the ceremony.",
+      "The bike was stationary next to the fence."
+    ],
+    "correct": 1,
+    "explanation": "'Stationary' means not moving, while 'stationery' refers to writing materials. This sentence incorrectly uses the term."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "In the sentence, 'The figure in the distance was walking along the shore, close to the edge of the water,' the word 'shore' is most accurately paired with which of the following?",
+    "options": [
+      "Sure",
+      "Shore",
+      "Shear",
+      "Store"
+    ],
+    "correct": 0,
+    "explanation": "The pair 'shore' and 'sure' are homophones because they sound the same but have different spellings and meanings. 'Shore' refers to land by the edge of a body of water, while 'sure' means being confident or certain."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "In the sentence, 'The flower bloomed beautifully in the garden,' the word 'flower' is most accurately paired with which of the following?",
+    "options": [
+      "Flour",
+      "Flower",
+      "Flore",
+      "Flowerer"
+    ],
+    "correct": 0,
+    "explanation": "'Flower' and 'flour' are homophones, sharing the same pronunciation but differing in spelling and meaning. 'Flower' refers to a blooming plant, while 'flour' is a powder made from grinding grains."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "In the sentence, \"The flower bloomed beautifully in the garden,\" the word \"flower\" is most accurately paired with which of the following?",
+    "options": [
+      "Flour",
+      "Flower",
+      "Flore",
+      "Flowerer"
+    ],
+    "correct": 0,
+    "explanation": "\"Flower\" and \"flour\" are homophones, sharing the same pronunciation but differing in spelling and meaning. \"Flower\" refers to a blooming plant, while \"flour\" is a powder made from grinding grains."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "In the sentence, \"The plane flew high above the clouds,\" the word \"flew\" is most accurately paired with which of the following?",
+    "options": [
+      "Flew",
+      "Flu",
+      "Flying",
+      "Flue"
+    ],
+    "correct": 1,
+    "explanation": "\"Flew\" and \"flu\" are homophones as they sound the same but differ in meaning. \"Flew\" is the past tense of fly, while \"flu\" is short for influenza, a viral infection."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Why is the pair \"tear-tear\" considered a homonym?",
+    "options": [
+      "Because they have different spellings but sound the same",
+      "Because they have the same spelling and pronunciation but different meanings",
+      "Because they have the same meanings but different spellings",
+      "Because they sound the same but have opposite meanings"
+    ],
+    "correct": 1,
+    "explanation": "The word \"tear\" can mean \"a drop of liquid from the eye\" or \"to rip something.\" Although spelled and pronounced the same, the meanings differ, making \"tear-tear\" a homonym."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "In the sentences, \"Thorn tried to pull a loose plank, causing a slight tear,\" and \"A tear ran down his cheek,\" the word \"tear\" represents:",
+    "options": [
+      "A homophone pair with different spellings",
+      "A homonym with the same spelling and pronunciation but different meanings",
+      "An antonym pair with opposite meanings",
+      "A synonym pair with similar meanings"
+    ],
+    "correct": 1,
+    "explanation": "The word \"tear\" is a homonym because it has the same spelling and pronunciation in both sentences but different meanings: \"tear\" in the first sentence refers to a rip, while in the second, it refers to a drop of liquid from the eye."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Why is the pair \"lead-lead\" considered a homonym?",
+    "options": [
+      "Because they have the same meanings but different spellings",
+      "Because they have different meanings but the same spelling",
+      "Because they have the same pronunciation but different meanings",
+      "Because they sound the same but have opposite meanings"
+    ],
+    "correct": 2,
+    "explanation": "\"Lead\" (to guide) and \"lead\" (a type of metal) are pronounced the same but have distinct meanings, making them homonyms."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Why is \"bank-bank\" an example of a homonym?",
+    "options": [
+      "They are spelled the same but have opposite meanings",
+      "They have different meanings and different spellings",
+      "They sound the same and have different meanings",
+      "They have the same spelling and sound but different definitions"
+    ],
+    "correct": 2,
+    "explanation": "\"Bank\" (a financial institution) and \"bank\" (the side of a river) are pronounced identically yet refer to different concepts, fitting the definition of homonyms."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "In what way are \"close-close\" considered homonyms?",
+    "options": [
+      "They are spelled the same but have different pronunciations",
+      "They are pronounced the same and have different meanings",
+      "They are spelled differently but have the same meaning",
+      "They sound the same but are antonyms"
+    ],
+    "correct": 1,
+    "explanation": "\"Close\" (to shut) and \"close\" (near) are pronounced the same but signify different concepts, thereby qualifying as homonyms."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which word correctly completes the sentence? \"Thorn walked along the __________ of the river, keeping an eye out for any evidence.\"",
+    "options": [
+      "shore",
+      "sure",
+      "shure",
+      "shear"
+    ],
+    "correct": 0,
+    "explanation": "\"Shore\" refers to the land at the edge of a body of water, which fits the context of the sentence. \"Sure\" is a homophone of \"shore,\" meaning \"certain or confident.\" The other options are incorrect as \"shure\" is not a valid word, and \"shear\" means to cut."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Fill in the blank with the correct homophone pair: \"The sound of __________ and the cold draft made Thorn's __________ shiver.\"",
+    "options": [
+      "metal, medal",
+      "mettle, medal",
+      "metal, mettle",
+      "mettle, metal"
+    ],
+    "correct": 2,
+    "explanation": "\"Metal\" refers to a type of material, while \"mettle\" refers to a person's ability to cope well with difficulties or resilience. They are homophones as they sound the same but have different meanings."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Identify the incorrect word usage in the sentence: \"Thorn was sure he saw the figure at the sight of the old lighthouse.\"",
+    "options": [
+      "Sure",
+      "Saw",
+      "Sight",
+      "Figure"
+    ],
+    "correct": 2,
+    "explanation": "The correct word should be \"site\" because \"site\" refers to a location or place, whereas \"sight\" refers to the ability to see or a view. In this context, Thorn is at a location, making \"site\" the appropriate choice."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Spot the error in the sentence: \"Thorn noticed a slight seem along the wooden floorboards.\"",
+    "options": [
+      "seem",
+      "slight",
+      "floorboards",
+      "along"
+    ],
+    "correct": 0,
+    "explanation": "The word \"seem\" is incorrect here. The correct word should be \"seam,\" which refers to a line of stitching or a joint. \"Seem\" means to appear or look a certain way, which does not fit the context."
+  },
+  {
+    "questionNo": "Q21.",
+    "question": "Spot the error in the sentence: \"Thorn found a peace of evidence on the ground near the old warehouse.\"",
+    "options": [
+      "evidence",
+      "peace",
+      "ground",
+      "warehouse"
+    ],
+    "correct": 1,
+    "explanation": "The correct word is \"piece,\" which means a portion or segment. \"Peace\" refers to the absence of conflict, making it incorrect in this context."
+  }
+]
